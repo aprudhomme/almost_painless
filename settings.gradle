@@ -1,0 +1,2 @@
+include('spi')
+rootProject.name = 'almost_painless'
